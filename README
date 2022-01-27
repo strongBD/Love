@@ -28,6 +28,9 @@
     </head>
 
     <body>
+        <audio autoplay="autoplay" loop="loop" preload="auto"
+            src="http://music.163.com/song/media/outer/url?id=526464145.mp3">       
+        </audio>
         <h1 id="h1"></h1>
         <canvas></canvas> 
         <script>
